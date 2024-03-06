@@ -1,0 +1,1 @@
+int myint,int myint2;
