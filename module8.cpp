@@ -11,10 +11,11 @@ class Vehicle
 };
 int main()
 {
-    Vehicle v; //creates instance??
-    v.fuelCap = 100;
-    int i = v.fuelCap;
-    cout << i;
+    // Vehicle v; //creates instance??
+    // v.fuelCap = 100;
+    // int i = v.fuelCap;
+    // cout << i;
+    
 }
 // class-name
 // {
